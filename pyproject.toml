@@ -1,0 +1,11 @@
+[project]
+name = "plasmadeck"
+version = "1"
+dependencies = [
+    "cairosvg",
+    "PyGObject",
+    "pycairo",
+    "StreamDeck",
+    "dbus_next",
+    "desktop_parser"
+]
